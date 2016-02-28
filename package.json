@@ -1,0 +1,26 @@
+{
+  "name": "random-pokemon",
+  "version": "0.0.1",
+  "description": "Random Pokémon Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskwan/random-pokemon.git"
+  },
+  "keywords": [
+    "random",
+    "pokemon",
+    "generator",
+    "data",
+    "pokémon"
+  ],
+  "author": "chriskwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskwan/random-pokemon/issues"
+  },
+  "homepage": "https://github.com/chriskwan/random-pokemon#readme"
+}
